@@ -15,7 +15,6 @@ typedef struct printout
 	char *m;
 	int (*n)(va_list);
 } printout_t;
-
 int _putchar(char c);
 int _printf(const char *format, ...);
 int print_c(va_list c);
