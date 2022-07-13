@@ -13,6 +13,7 @@ return (1);
 return (0);
 }
 
+
 /**
  * append_hexa_code - Append ascci in hexadecimal code to buffer
  * @buffer: Array of chars.
